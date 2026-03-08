@@ -11,3 +11,9 @@ the IEEE-754 32-bit representation of two floating-point values.
 Use g++ to compile the program:
 
 g++ implementation_file.cpp -o implementation_file
+
+## Running the Program
+
+Run the executable with two floating point numbers:
+
+./implementation_file <loop_bound> <loop_counter>
