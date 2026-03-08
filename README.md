@@ -10,4 +10,4 @@ the IEEE-754 32-bit representation of two floating-point values.
 ## Compilation
 Use g++ to compile the program:
 
-g++ fp_overflow_checker.cpp -o fp_overflow_checker
+g++ implementation_file.cpp -o implementation_file
